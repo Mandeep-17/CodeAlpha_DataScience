@@ -6,7 +6,7 @@ Notebook link:https://github.com/Mandeep-17/CodeAlpha_DataScience/blob/main/Tita
 
 Task 2 : Stock Prediction
 
-Notebook link : 
+Notebook link : https://github.com/Mandeep-17/CodeAlpha_DataScience/blob/main/Stock%20Prediction.ipynb
 
 Task 3 : A/B testing
 

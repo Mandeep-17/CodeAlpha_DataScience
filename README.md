@@ -8,6 +8,6 @@ Task 2 : Stock Prediction
 
 Notebook link : https://github.com/Mandeep-17/CodeAlpha_DataScience/blob/main/Stock%20Prediction.ipynb
 
-Task 3 : A/B testing
+Task 3 : Predictive modeling with Linear regression
 
-Notebook link : 
+Notebook link : https://github.com/Mandeep-17/CodeAlpha_DataScience/blob/main/USA_housing.ipynb
